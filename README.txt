@@ -1,0 +1,1 @@
+Hello. This is an HTTP/1.1 server I built to learn C++. If you want to check out the code you should probably start from src/main.cpp and src/server.hpp :)
